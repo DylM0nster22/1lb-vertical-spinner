@@ -4,7 +4,7 @@ author: "Dylan"
 description: "This is an 1lb verticle spinner combat robot thats going to be named kit"
 created_at: "2025-05-24"
 ---
-# May 24: Started researching and cadding
+# May 24: Started researching and cading
 
 I researched some ideas for what type of design i'm going to make and found some ones that I thought good ones and started cadding. I started with importing my motors and making a basic bottom to start with, then I started working of my upright design.
 My idea for this design is to have a sort of wedge in the back to make it harder for people to hit me while having the front lead into the weapon.
