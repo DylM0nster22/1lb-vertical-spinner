@@ -15,3 +15,16 @@ My idea for this design is to have a sort of wedge in the back to make it harder
 
 
 **Total time spent: 1.5h**
+
+# May 25: More cading 
+
+I started with making some basic walls and making it bigger, then I prototyped with different weapon designs before a relized the size of weapon i was trying to use wasnt feasable so then I used smaller ones. overall I didnt make much progress but did decide on a weapon type.. A axe.
+
+Something like this design
+![image](https://github.com/user-attachments/assets/3b18aa12-cd9d-4d5d-bd44-daa16449c545)
+
+This is my progress
+![image](https://github.com/user-attachments/assets/aa817fff-ac6a-419b-abff-2e0a048b3502)
+![image](https://github.com/user-attachments/assets/e5f547b5-c9d6-495c-bac3-b53679a13eb3)
+
+**Total time spend 1h**
