@@ -13,7 +13,6 @@ My idea for this design is to have a sort of wedge in the back to make it harder
 ![image](https://github.com/user-attachments/assets/3e491aac-6e6d-4c74-a218-c6429e72370c)
 ![image](https://github.com/user-attachments/assets/09a2e9f7-79dd-4353-9861-bf73bd8b9a50)
 
-
 **Total time spent: 1.5h**
 
 # May 25: More cading 
@@ -28,3 +27,14 @@ This is my progress
 ![image](https://github.com/user-attachments/assets/e5f547b5-c9d6-495c-bac3-b53679a13eb3)
 
 **Total time spend 1h**
+
+# May 26: I did alot in my cad and got closer to being finished
+
+I started really cading and finished my basic weapon, uprights, rear wedge, and changed up the shape of the body, tommorow i will probally add more details and finish mre of it
+
+![image](https://github.com/user-attachments/assets/f19169e9-72d8-436d-b07c-3cd16624d5ef)
+![image](https://github.com/user-attachments/assets/34ca63b4-9d91-43c9-bb7d-45203e836cb2)
+![image](https://github.com/user-attachments/assets/11cc6028-c22f-49b2-87dc-e4604c987c14)
+
+**Total time spend: 3h**
+
