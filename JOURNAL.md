@@ -30,11 +30,22 @@ This is my progress
 
 # May 26: I did alot in my cad and got closer to being finished
 
-I started really cading and finished my basic weapon, uprights, rear wedge, and changed up the shape of the body, tommorow i will probally add more details and finish mre of it
+I started really cading and finished my basic weapon, uprights, rear wedge, and changed up the shape of the body, tommorow i will probally add more details and finish more of it
 
 ![image](https://github.com/user-attachments/assets/f19169e9-72d8-436d-b07c-3cd16624d5ef)
 ![image](https://github.com/user-attachments/assets/34ca63b4-9d91-43c9-bb7d-45203e836cb2)
 ![image](https://github.com/user-attachments/assets/11cc6028-c22f-49b2-87dc-e4604c987c14)
 
 **Total time spend: 3h**
+
+# May 27: I fully decided what i was going to do
+
+I finished thinking out fully what I was going to do, then I imported all the parts i would be using and arranged them how I am going to put them. I added the main part of it.. the color scheme, I also fully make the wedge and added all the screw holes for it to be attachable.
+
+![image](https://github.com/user-attachments/assets/33aff634-cb6f-440f-afc1-db74d4b4bd8d)
+![image](https://github.com/user-attachments/assets/e1ba2209-9bda-4023-9c63-2926b790da5a)
+![image](https://github.com/user-attachments/assets/105ac026-ef42-40c7-97c3-2dc037fd8912)
+
+**Total time spend 1h**
+
 
