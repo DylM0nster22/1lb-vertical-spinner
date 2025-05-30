@@ -48,4 +48,16 @@ I finished thinking out fully what I was going to do, then I imported all the pa
 
 **Total time spend 1h**
 
+# May 28: I made the first version of my weapon and made some mounting holes
+
+I followed a tutorial to help me make a asymmetrical weapon and keep the center of balance almost perfect. I also started making mounting holes for my uprights and had the idea to make the back upright screws be indented into the rear wedge for extra support. I also made supports for the top lid to be mounted.
+
+![image](https://github.com/user-attachments/assets/09366cf5-5ede-4e55-b546-82cc080b67ba)
+![image](https://github.com/user-attachments/assets/a153f971-7b19-40ab-a2fd-b5634446760c)
+![image](https://github.com/user-attachments/assets/a5746056-9073-4f6b-bd3f-89f7a133758d)
+![image](https://github.com/user-attachments/assets/6754b473-831d-44db-8bc9-60f7a3e80cbf)
+
+**Total time spent 1h**
+
+
 
