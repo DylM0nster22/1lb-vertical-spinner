@@ -56,6 +56,8 @@ I followed a tutorial to help me make a asymmetrical weapon and keep the center 
 ![image](https://github.com/user-attachments/assets/a153f971-7b19-40ab-a2fd-b5634446760c)
 ![image](https://github.com/user-attachments/assets/a5746056-9073-4f6b-bd3f-89f7a133758d)
 ![image](https://github.com/user-attachments/assets/6754b473-831d-44db-8bc9-60f7a3e80cbf)
+![image](https://github.com/user-attachments/assets/1da40615-6a5c-4b4b-b208-d2f435c7b6e4)
+![image](https://github.com/user-attachments/assets/f1251653-6a6a-4ff0-b3e1-8650af734561)
 
 **Total time spent 1h**
 
