@@ -61,5 +61,12 @@ I followed a tutorial to help me make a asymmetrical weapon and keep the center 
 
 **Total time spent 1h**
 
+# May 29: I rebalanced the weapon and made some design changes
 
+Today I made some choices like changing out my repeat robotics mini mk4s for antweight tangent drive which I think is a better chice because of 2 factors, one is weight they weight about half the weight of the mk4s, and two the other reason is because with them i can run 4wd. I also changed the weapon to have the center of balance to be closer to the center and added pockets so the momentium can be transfered through the tip of the weapon easier and make it hit harder.
+
+![image](https://github.com/user-attachments/assets/ef8abbad-b5e7-40a1-a055-d8a989767a3e)
+![image](https://github.com/user-attachments/assets/283cde40-934d-4a37-954c-879981d4ff79)
+
+**Total time spend 1.5h**
 
