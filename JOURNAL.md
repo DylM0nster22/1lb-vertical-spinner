@@ -70,3 +70,12 @@ Today I made some choices like changing out my repeat robotics mini mk4s for ant
 
 **Total time spend 1.5h**
 
+# June 4: I setup the tangent proplerly and make basic forks
+
+Today I properly alligned the wheels and axels for tangent drive by creating a cicle with the diameter of the wheel and moving it 0.3mm into the tangent axel so it would properly mesh. I also created basic forks and moved the wedge so it would be flush with the ground and actually act as a wedge. This was done during the roadtrip call.
+
+![image](https://github.com/user-attachments/assets/89698c80-574d-47d1-89d6-13163a592648)
+![image](https://github.com/user-attachments/assets/148a5f54-4b71-434d-b4a4-abc62e71cdfe)
+
+**Total time spent 45m**
+
