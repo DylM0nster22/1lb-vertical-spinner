@@ -79,3 +79,12 @@ Today I properly alligned the wheels and axels for tangent drive by creating a c
 
 **Total time spent 45m**
 
+# June 16th i made some material choices for different parts and added armor and some other changes
+
+Today I decided that instead of just printing everything other than the weapon that I was going to order the weapon uprights to be made from uhmw because its lighter and stronger than most printing, I also figured I would get the top plate cut out of carbon fiber. i also removed the wedge for weight reason because after weight calcuations without the wheels or forks i only had 40 grams left, I also added wheel armor thats going to be make out of tpu most likely.
+
+![image](https://github.com/user-attachments/assets/76b68a01-8baf-42eb-9270-09665d6bca7b)
+![image](https://github.com/user-attachments/assets/b3b2e57b-7f3c-4209-89db-0979c770db31)
+
+**Total time spend 2h**
+
