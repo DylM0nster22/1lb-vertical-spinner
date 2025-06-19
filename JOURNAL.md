@@ -4,6 +4,9 @@ author: "Dylan"
 description: "This is an 1lb verticle spinner combat robot thats going to be named kit"
 created_at: "2025-05-24"
 ---
+
+# Total Time Spent 12.75h
+
 # May 24: Started researching and cading
 
 I researched some ideas for what type of design i'm going to make and found some ones that I thought good ones and started cadding. I started with importing my motors and making a basic bottom to start with, then I started working of my upright design.
@@ -17,7 +20,7 @@ My idea for this design is to have a sort of wedge in the back to make it harder
 
 # May 25: More cading 
 
-I started with making some basic walls and making it bigger, then I prototyped with different weapon designs before a relized the size of weapon i was trying to use wasnt feasable so then I used smaller ones. overall I didnt make much progress but did decide on a weapon type.. A axe.
+I started with making some basic walls and making it bigger, then I prototyped with different weapon designs before a relized the size of weapon i was trying to use wasnt feasable so then I used smaller ones. overall I didnt make much progress but did decide on a weapon type, a axe.
 
 Something like this design
 ![image](https://github.com/user-attachments/assets/3b18aa12-cd9d-4d5d-bd44-daa16449c545)
@@ -26,7 +29,7 @@ This is my progress
 ![image](https://github.com/user-attachments/assets/aa817fff-ac6a-419b-abff-2e0a048b3502)
 ![image](https://github.com/user-attachments/assets/e5f547b5-c9d6-495c-bac3-b53679a13eb3)
 
-**Total time spend 1h**
+**Total time spent 1h**
 
 # May 26: I did alot in my cad and got closer to being finished
 
@@ -36,7 +39,7 @@ I started really cading and finished my basic weapon, uprights, rear wedge, and 
 ![image](https://github.com/user-attachments/assets/34ca63b4-9d91-43c9-bb7d-45203e836cb2)
 ![image](https://github.com/user-attachments/assets/11cc6028-c22f-49b2-87dc-e4604c987c14)
 
-**Total time spend: 3h**
+**Total time spent: 3h**
 
 # May 27: I fully decided what i was going to do
 
@@ -46,7 +49,7 @@ I finished thinking out fully what I was going to do, then I imported all the pa
 ![image](https://github.com/user-attachments/assets/e1ba2209-9bda-4023-9c63-2926b790da5a)
 ![image](https://github.com/user-attachments/assets/105ac026-ef42-40c7-97c3-2dc037fd8912)
 
-**Total time spend 1h**
+**Total time spent 1h**
 
 # May 28: I made the first version of my weapon and made some mounting holes
 
@@ -68,7 +71,7 @@ Today I made some choices like changing out my repeat robotics mini mk4s for ant
 ![image](https://github.com/user-attachments/assets/ef8abbad-b5e7-40a1-a055-d8a989767a3e)
 ![image](https://github.com/user-attachments/assets/283cde40-934d-4a37-954c-879981d4ff79)
 
-**Total time spend 1.5h**
+**Total time spent 1.5h**
 
 # June 4: I setup the tangent proplerly and make basic forks
 
@@ -79,12 +82,24 @@ Today I properly alligned the wheels and axels for tangent drive by creating a c
 
 **Total time spent 45m**
 
-# June 16th i made some material choices for different parts and added armor and some other changes
+# June 16th I made some material choices for different parts and added armor and some other changes
 
 Today I decided that instead of just printing everything other than the weapon that I was going to order the weapon uprights to be made from uhmw because its lighter and stronger than most printing, I also figured I would get the top plate cut out of carbon fiber. i also removed the wedge for weight reason because after weight calcuations without the wheels or forks i only had 40 grams left, I also added wheel armor thats going to be make out of tpu most likely.
 
 ![image](https://github.com/user-attachments/assets/76b68a01-8baf-42eb-9270-09665d6bca7b)
 ![image](https://github.com/user-attachments/assets/b3b2e57b-7f3c-4209-89db-0979c770db31)
 
-**Total time spend 2h**
+**Total time spent 2h**
+
+# June 18th I created a wiring diagram and changed the forks to make them actually good
+
+I created a horrible wiring diagram to start with 
+![image](https://github.com/user-attachments/assets/489cbab6-a527-4346-a347-b1885bde454d)
+
+then I spent some time creating better fork mounts and better forks. I ended up with having one fork on each side attached to the armor and another two mounted at the same 10° angle as the body.
+
+![image](https://github.com/user-attachments/assets/5319a7f3-c464-4d32-9264-356c090df354)
+![image](https://github.com/user-attachments/assets/870794ed-071f-486f-aa08-e1fe73bd0b4c)
+
+**Total time spend 1h**
 
