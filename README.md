@@ -1,5 +1,9 @@
 ### Kitt a 1lb combat robot
 
+Rendered Image
+![image](https://github.com/user-attachments/assets/c629c780-00a0-46a7-9e18-0f1d042f2786)
+
+
 ![image](https://github.com/user-attachments/assets/89164fe3-4478-473f-a094-5a5a17094dcb)
 ![image](https://github.com/user-attachments/assets/70ce7fb9-5e4a-4ce2-97b2-a48b64a1d5c9)
 ![image](https://github.com/user-attachments/assets/b2b0ffe5-a232-4a87-adf3-108fb07de64b)
