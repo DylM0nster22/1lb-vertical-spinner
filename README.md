@@ -6,3 +6,6 @@
 ![image](https://github.com/user-attachments/assets/ef58e6d0-bd43-4508-9f7a-6f9b3f9c84f1)
 ![image](https://github.com/user-attachments/assets/4b7cd63a-d4ca-40e1-bb9f-581f1f6cf47b)
 ![image](https://github.com/user-attachments/assets/ba5cb7c5-db19-4920-9a07-ad76ba232352)
+
+Horrible wiring diagram 
+![image](https://github.com/user-attachments/assets/1200659b-9235-43e6-ae1a-4be32f567e7e)
