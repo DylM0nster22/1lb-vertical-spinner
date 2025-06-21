@@ -16,6 +16,11 @@ Rendered Image
 ![image](https://github.com/user-attachments/assets/4b7cd63a-d4ca-40e1-bb9f-581f1f6cf47b)
 ![image](https://github.com/user-attachments/assets/ba5cb7c5-db19-4920-9a07-ad76ba232352)
 
+Wiring Diagram
+
+![image](https://github.com/user-attachments/assets/cfbdef4d-c526-40b5-b9e7-ac3b37aaf740)
+
+
 The BOM CSV is in the repo
   
   
