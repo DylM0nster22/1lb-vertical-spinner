@@ -7,7 +7,7 @@ This is my 1lb combat robot that I made. I made it to be semi simialer to a larg
 All the main parts of the bot like the fram, uprights, forks, and armor will be 3d printed out of Overture easy nylon because it has a high strength and lower density then fillaments like pla and petg. The frame and uprights are going to be printed at 80% infil while the armor and forks are going to be solid. The weapon is going to be make out of ar500 steel.
 
 Rendered Image
-![peak sigma](https://github.com/user-attachments/assets/c81945c9-1e14-476c-8ea5-d1499585432b)
+![image](https://github.com/user-attachments/assets/c81945c9-1e14-476c-8ea5-d1499585432b)
 
 ![image](https://github.com/user-attachments/assets/89164fe3-4478-473f-a094-5a5a17094dcb)
 ![image](https://github.com/user-attachments/assets/70ce7fb9-5e4a-4ce2-97b2-a48b64a1d5c9)
