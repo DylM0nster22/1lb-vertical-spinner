@@ -5,7 +5,7 @@ description: "This is an 1lb verticle spinner combat robot thats going to be nam
 created_at: "2025-05-24"
 ---
 
-# Total Time Spent 12.75h
+# Total Time Spent 15.25h
 
 # May 24: Started researching and cading
 
@@ -101,5 +101,13 @@ then I spent some time creating better fork mounts and better forks. I ended up 
 ![image](https://github.com/user-attachments/assets/5319a7f3-c464-4d32-9264-356c090df354)
 ![image](https://github.com/user-attachments/assets/870794ed-071f-486f-aa08-e1fe73bd0b4c)
 
-**Total time spend 1h**
+**Total time spent 1h**
+
+# June 23rd I made the bot wider and cut the back out to save on weight, I also created upright supports for some extra support
+
+![image](https://github.com/user-attachments/assets/f5965991-63ad-45a8-afdd-1c1fcbeae7cd)
+![image](https://github.com/user-attachments/assets/979e5637-86ce-4cd1-a813-15ce4a4a6ed3)
+![image](https://github.com/user-attachments/assets/c8ef30e6-4de1-4c8b-b81b-994fb8fd9afe)
+
+**Total time spent 2.5h** 
 
