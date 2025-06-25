@@ -26,14 +26,15 @@ The BOM CSV is in the repo
   
 | Part                 | Quantity | Price      | Total Price | Weight  | Provider |
 |----------------------|---------:|-----------:|------------:|--------:|----------|
-| Drive Motors         |        3 | $20.00     | $60         | 26      | [Repeat Robotics](https://repeat-robotics.com/buy/repeat-tangent-drive-motors/?attribute_motor-size=1406) |
-| Drive axels          |        2 | $10        | $20         | 4       | [Repeat Robotics](https://teammalice.com/index.php/product/repeat-robotics-axle-ant-2pcs/) |
-| Weapon Motors        |        2 | $50        | $100        | 65      | [Repeat Robotics](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/) |
-| Receiver             |        2 | $6         | $12         | 0.9     | [Aliexpress](https://www.aliexpress.us/item/3256804714662317.html?…) |
-| Weapon/Drive ESC     |        5 | $8         | $41         | 18.9    | [Aliexpress](https://www.aliexpress.us/item/3256808227888337.html?…) |
+| Drive Motors         |        2 | $20.00     | $60         | 26      | [Repeat Robotics](https://repeat-robotics.com/buy/repeat-tangent-drive-motors/?attribute_motor-size=1406) |
+| Drive axels          |        1 | $10        | $20         | 4       | [Repeat Robotics](https://teammalice.com/index.php/product/repeat-robotics-axle-ant-2pcs/) |
+| Weapon Motors        |        1 | $50        | $100        | 65      | [Repeat Robotics](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/) |
+| Receiver             |        1 | $6         | $12         | 0.9     | [Aliexpress](https://www.aliexpress.us/item/3256804714662317.html?…) |
+| Weapon ESC           |        1 | $8         | $8          | 6.3     | [Aliexpress](https://www.aliexpress.us/item/3256808227888337.html?…) |
+| Drive ESC            |        2 | $6         | $12         | 12.3
 | Power Switch         |        1 | $9         | $9          | 2.15    | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | Batteries            |        2 | $12        | $24         | 28.93   | [Amazon](https://www.amazon.com/GAONENG-300mAh-Battery-Connector-Racing/dp/B07MTDCTCD?…) |
-| Weapon               |        5 | $8         | $39         | 110     | [sendcutsend](https://app.sendcutsend.com/) |
+| Weapon               |        1 | $8         | $8          | 110     | [sendcutsend](https://app.sendcutsend.com/) |
 | Filament             |        1 | $33        | $33         |         | [Overture](https://overture3d.com/products/nylon-3d-printing-filament) |
 | Armor Sets           |        3 | 3d printed | 3d printed  | 28.07   |          |
 | Body                 |        3 | 3d printed | 3d printed  | 66.79   |          |
