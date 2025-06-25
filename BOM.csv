@@ -1,13 +1,14 @@
 Part,Quanity,Price,Total Price,Weight in bot,Provider
 ,,,,,
-Drive Motors,3,$20.00,$60,26,Repeat Robotics
-Drive axels,2,$10,$20,4,Repeat Robotics
-Weapon Motors,2,$50,$100,65,Repeat Robotics
-Reciever,2,$6,$12,0.9,Aliexpress
-Weapon/Drive ESC,5,$8,$41,18.9,Aliexpress
+Drive Motors,2,$20.00,$40,26,Repeat Robotics
+Drive axels,1,$10,$10,4,Repeat Robotics
+Weapon Motors,1,$50,$50,65,Repeat Robotics
+Reciever,1,$6,$7,0.9,Aliexpress
+Drive ESC,2,$6,$13,12.6.Aliexpress
+Weapon ESC,1,$8,$8,6.3,Aliexpress
 Power Switch,1,$9,$9,2.15,Repeat Robotics
 Batteries,2,$12,$24,28.93,Amazon
-Weapon,5,$8,$39,110,sendcutsend
+Weapon,1,$8,$8,110,sendcutsend
 Fillament,1,$33,$33,,Overture
 Armor Sets,3,3d printed,3d printed,28.07,
 Body,3,3d printed,3d printed,66.79,
@@ -21,4 +22,4 @@ Repeat shipping,,,$5,,
 Aliexpress shipping,,,$7.25,,
 ,,,,,
 ,,,,,
-,,,$350,450.39,
+,,,$206,454.05,
