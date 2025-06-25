@@ -46,4 +46,4 @@ The BOM CSV is in the repo
 | Transmitter          |        0 | $0         | $0          |         |          |
 | Repeat shipping      |          |            | $5          |         |          |
 | Aliexpress shipping  |          |            | $7.25       |         |          |
-| **Totals**           |          |            | **$350**    | **450.39** |          |
+| **Totals**           |          |            | **$206**    | **450.39** |          |
