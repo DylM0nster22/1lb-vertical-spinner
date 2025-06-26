@@ -7,14 +7,13 @@ This is my 1lb combat robot that I made. I made it to be semi simialer to a larg
 All the main parts of the bot like the fram, uprights, forks, and armor will be 3d printed out of Overture easy nylon because it has a high strength and lower density then fillaments like pla and petg. The frame and uprights are going to be printed at 80% infil while the armor and forks are going to be solid. The weapon is going to be make out of ar500 steel.
 
 Rendered Image
-![image](https://github.com/user-attachments/assets/c81945c9-1e14-476c-8ea5-d1499585432b)
+![KITT v19](https://github.com/user-attachments/assets/312ab55c-9ab9-404c-b3c7-8ca20e2384da)
 
-![image](https://github.com/user-attachments/assets/89164fe3-4478-473f-a094-5a5a17094dcb)
-![image](https://github.com/user-attachments/assets/70ce7fb9-5e4a-4ce2-97b2-a48b64a1d5c9)
-![image](https://github.com/user-attachments/assets/b2b0ffe5-a232-4a87-adf3-108fb07de64b)
-![image](https://github.com/user-attachments/assets/ef58e6d0-bd43-4508-9f7a-6f9b3f9c84f1)
-![image](https://github.com/user-attachments/assets/4b7cd63a-d4ca-40e1-bb9f-581f1f6cf47b)
-![image](https://github.com/user-attachments/assets/ba5cb7c5-db19-4920-9a07-ad76ba232352)
+![image](https://github.com/user-attachments/assets/577b0522-637e-4810-b987-b26e2d4528be)
+![image](https://github.com/user-attachments/assets/4730f97a-d4fa-49d6-ab10-3bbbe5d908dc)
+![image](https://github.com/user-attachments/assets/850cf064-8849-44d8-928a-9a3ad87ff003)
+![image](https://github.com/user-attachments/assets/b9230572-a614-4666-a369-917c408cc3c5)
+![image](https://github.com/user-attachments/assets/12eac346-e54d-461f-8156-da06e55a789e)
 
 Wiring Diagram
 
