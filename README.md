@@ -1,4 +1,4 @@
-### Kitt a 1lb combat robot
+### Kitt a 1lb combat robot. 
 
 This is my 1lb combat robot that I made. I made it to be semi simialer to a large robot called deep six which is a verticle spinner where the majority of weight is in the giant weapon, my weapon isnt quite as big but compared to some other robots in the same class its pretty big. I made this combat robot because I wanted to make the prodject because I though it would be a good challenge to make a full combat ant instead of just plastic ants like ive made before. 
 
