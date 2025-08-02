@@ -5,7 +5,7 @@ description: "This is an 1lb verticle spinner combat robot thats going to be nam
 created_at: "2025-05-24"
 ---
 
-# Total Time Spent 15.25h
+# Total Time Spent 21.25h
 
 # May 24: Started researching and cading
 
@@ -117,3 +117,4 @@ I forgot to make this journal for a while because ive been busy with various thi
 
 ![PXL_20250802_044956033](https://github.com/user-attachments/assets/bc2e360b-7ea4-4639-9e77-6ae47340c8e3)
 
+**Total time spemd 6h**
