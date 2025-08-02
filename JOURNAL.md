@@ -111,3 +111,9 @@ then I spent some time creating better fork mounts and better forks. I ended up 
 
 **Total time spent 2.5h** 
 
+# July 7th i built the bot irl and tested it
+
+I forgot to make this journal for a while because ive been busy with various things like highway. today i build the robot which took a good part of this day, this involved reprogramming the escs which i failed at with one of them, soldering everything, and printed everything, i have way to many screws in the bot, it still has some minor issues like one side of the tangent being wrong no matter what. when i got it mostly working i ran it in my test box without the hard mounted forks and it almost went through one of the layers of my polycarbonate by bouncing off the ground and roofing itself and gouging out some of the poly carbonate.
+
+![PXL_20250802_044956033](https://github.com/user-attachments/assets/bc2e360b-7ea4-4639-9e77-6ae47340c8e3)
+
